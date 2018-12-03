@@ -4,7 +4,7 @@
 
 Source of Data : https://www.kaggle.com/START-UMD/gtd/home
 
-### Motivation : We can figure out the most peaceful states and places where are suffering of terror attacks and need help.
+### Motivation for analysis : We can figure out the most peaceful states and places where are suffering of terror attacks and need help.
 
 ## Information on more than 180,000 Terrorist Attacks
 
@@ -14,14 +14,12 @@ The Global Terrorism Database (GTD) is an open-source database including informa
 
 Time period: 1970-2017, except 1993
 
-Unit of analysis: Attack
+***Unit of analysis: Attack***
 
-Variables: >100 variables on location, tactics, perpetrators, targets, and outcomes
+***Variables:*** >100 variables on location, tactics, perpetrators, targets, and outcomes
 
-Sources: Unclassified media articles (Note: Please interpret changes over time with caution. Global patterns are driven by diverse trends in particular regions, and data collection is influenced by fluctuations in access to media coverage over both time and place.)
+***Sources:*** Unclassified media articles (Note: Please interpret changes over time with caution. Global patterns are driven by diverse trends in particular regions, and data collection is influenced by fluctuations in access to media coverage over both time and place.)
 
-Definition of terrorism:
+***Definition of terrorism:***
 
 "The threatened or actual use of illegal force and violence by a non-state actor to attain a political, economic, religious, or social goal through fear, coercion, or intimidation."
-
-See the GTD Codebook for important details on data collection methodology, definitions, and coding schema.
