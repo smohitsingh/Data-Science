@@ -1,3 +1,7 @@
+# Airbnb New User Bookings
+_Where will a new guest book their first travel experience?_
+
+
 Airbnb can share more personalized content with their community so that Airbnb can decrease the average time for new user for their first booking and better forecast demand.
 Also, Understanding significant factors on new users Bookings, can be very helpful for their marketing team to design new statergies and 
 Raise revenue for Airbnb to keep it at the top position in the market and among users a topmost priority for their travel plans.
