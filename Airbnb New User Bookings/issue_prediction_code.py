@@ -1,5 +1,37 @@
 # -*- coding: utf-8 -*-
 """
+
+combine all data
+first two lines of chats 
+combine these two lines
+
+data cleaning :
+stop words / neg. word dictionary
+
+manually labels
+
+model building LSTM
+correct words dict.
+
+example = pd.DataFrame({"id":[11,11,11,22,22,22,44,44,44,55],
+                        "name":["harry", "larry", "charry", "merry", "herry", "jane",
+                               "janery","mohit","megha","picky",]})
+
+first_two = example.groupby('id').head(2)
+
+
+df = pd.DataFrame ({'a' : ['foo', 'bar'] * 3,
+             'b' : ['foo2', 'bar2'] * 3,
+             'c' : ['foo3', 'bar3'] * 3,
+             'd' : ['q','w','e','r','t','y'],
+             'e' : ['q2','w2','e2','r2','t2','y2']})
+
+p = df.groupby(['a', 'b', 'c']).apply(lambda x: "%s" % ' '.join(x.d))
+p = pd.DataFrame(p,columns=['text']).reset_index()
+
+
+
+
 Created on Wed Jan  1 23:50:48 2020
 
 @author: Mohit Singh
